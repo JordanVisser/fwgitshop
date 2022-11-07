@@ -1,2 +1,2 @@
 # fwgitshop
-a demo repo fir teaching GitHub
+a demo repo for teaching GitHub
